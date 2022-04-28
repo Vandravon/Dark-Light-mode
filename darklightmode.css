@@ -1,0 +1,6 @@
+body {
+    background: rgb(231, 218, 218);
+}
+body.dark-mode-active {
+    background: rgb(13, 2, 37);
+}
